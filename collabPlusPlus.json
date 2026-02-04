@@ -1,0 +1,14 @@
+{
+	"id": "collabPlusPlus",
+	"name": "Collab++",
+	"author": ["RadiationV3"],
+	"description": "Adds new face card skins inspired by other games.",
+	"prefix": "CollabPP",
+	"main_file": "collabPlusPlus.lua",
+	"priority": 1,
+	"badge_colour": "eda93a",
+	"version": "1.0.0",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	]
+}
