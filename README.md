@@ -15,11 +15,11 @@ Requires `steammoded-1.0.0~ALPHA-1404b` or newer - [link](https://github.com/Ste
 Get the latest stable version of CollabPlusPlus from the [Releases](https://github.com/RadadaV2/Balatro-CollabPlusPlus/releases), then download and extract the zip.
 
 ## Credits
-Artworks drawn by RadiationV2, based on the following games:
+All card artworks drawn by RadiationV2, based on the following titles:
 - "Hollow Knight" by Team Cherry, inspiration taken from official promotionnal artwork
 - "Celeste" by Maddy Makes Games, inspiration taken from official promotionnal artwork
 - "Fez" by Polytron Corporation, reinterpretation of certain ingame sprites
-- "Pizza Tower" by Tour De Pizza, inspiration from ingame sprites and characters
+- "Pizza Tower" by Tour De Pizza, inspiration taken from ingame sprites and characters
 
 All artworks in this mod are unofficial. Each ip represented belongs to their respective owners.
 
