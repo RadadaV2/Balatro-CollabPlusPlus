@@ -14,7 +14,7 @@ Requires `steammoded-1.0.0~ALPHA-1404b` or newer - [link](https://github.com/Ste
 
 Get the latest stable version of CollabPlusPlus from the [Releases](https://github.com/RadadaV2/Balatro-CollabPlusPlus/releases), then download and extract the zip.
 
-## Credits
+# Credits
 Artworks drawn by RadiationV2, based on the following games:
 - "Hollow Knight" by Team Cherry, inspiration taken from official promotionnal artwork
 - "Celeste" by Maddy Makes Games, inspiration taken from official promotionnal artwork
@@ -23,5 +23,5 @@ Artworks drawn by RadiationV2, based on the following games:
 
 All artworks in this mod are unofficial. Each ip represented belongs to their respective owners.
 
-## License
+# License
 GNU GPLv3
