@@ -5,7 +5,7 @@ Disclaimer: Some cards may contain very mild character spoilers for their respec
 ## Content
 V1.0... Platformer pack 1 
 - (Hearts) Celeste:         Theo, Madeline and Badeline
-- (Diamonds) Fez:           Gomez, Dodecahedron and Owls
+- (Diamonds) Fez:           Gomez, Hexahedron and Owls
 - (Spades) Hollow Knight:   The Knight, Hornet and Zote
 - (Clubs) Pizza Tower:      Peppino, Gustavo and The Noise
 
