@@ -1,7 +1,7 @@
 {
 	"id": "collabPlusPlus",
 	"name": "Collab++",
-	"author": ["RadiationV3"],
+	"author": ["RadiationV2"],
 	"description": "Adds new face card skins inspired by other games.",
 	"prefix": "CollabPP",
 	"main_file": "collabPlusPlus.lua",
