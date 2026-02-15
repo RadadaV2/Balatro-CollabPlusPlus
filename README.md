@@ -9,8 +9,6 @@ V1.0... Platformer pack 1
 - (Spades) Hollow Knight:   The Knight, Hornet and Zote
 - (Clubs) Pizza Tower:      Peppino, Gustavo and The Noise
 
-![Pack 1 cards](./assets/cardsPack1.png)
-
 ## Installation
 Requires `steammoded-1.0.0~ALPHA-1404b` or newer - [link](https://github.com/Steamodded/smods/wiki).
 
